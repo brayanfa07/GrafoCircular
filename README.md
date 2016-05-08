@@ -15,4 +15,4 @@ Integrantes:
 
 **201157035 Brayan Fajardo Alvarado**
 
-[Acceso a la Wiki de Gráfico Circular aquí](https://github.com/brayanfa07/GrafoCircular/wiki/Grafo-Circular)
+[Acceso a la Wiki de Gráfico Circular aquí](https://github.com/brayanfa07/GrafoCircular/wiki/Grafo-Circular-%5Bclass-CircGraph%5D)
